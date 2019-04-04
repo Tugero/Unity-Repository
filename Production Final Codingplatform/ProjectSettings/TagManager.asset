@@ -8,6 +8,8 @@ TagManager:
   - JetPack
   - Parashute
   - Enemy
+  - Crystal
+  - WeaponUpOne
   layers:
   - Default
   - TransparentFX
